@@ -45,3 +45,13 @@
   margin-bottom: 10px;
   display: block;
 }
+.user-component__subtitlediv {
+  display: flex;
+  position: relative;
+}
+.user-component__subtitlediv i {
+  color: tomato;
+  position: absolute;
+  left: 92px;
+  top: 6px;
+}
